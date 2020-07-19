@@ -1,5 +1,5 @@
 # Malawi-Flood-Prediction
-This Notebook represents Our solution (Placed 6/480) for the Zindi Competition : 
+This Notebook represents Our solution (Placed 5/1562) for the Zindi Competition : 
 UNICEF Arm 2030 Vision : Flood Prediction in Malawi.
 
 The external Data we used was in Shapefile Format : a special Format for GeoSpatial data.
